@@ -2,7 +2,7 @@
 Using a spark notebook to accelerate loan default model creation.
 
 ### Data Source:
-Lending Club Kaggle Chanllege
+Lending Club Kaggle Chanllege <br>
 https://www.kaggle.com/wendykan/lending-club-loan-data
 
 ### Background:
