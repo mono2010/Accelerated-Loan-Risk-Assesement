@@ -12,7 +12,7 @@ var  df = sqlContext
   .read
   .format("csv")
   .option("header", "true")
-  .option("inferSchema", true) // auto determine data type
+  .option("inferSchema", true)
   .load("/FileStore/tables/export.csv")
 
 // assigning a target varible
