@@ -2,4 +2,4 @@
 Using a spark notebook to accelerate loan default model creation.
 
 ### Background:
-Using machine learning to predict possible loan defaults is one of the more prococative ideas in modern banking.
+Attemping to predict loan defaults is one of the many applications for machine learning in the finacial services industry.
